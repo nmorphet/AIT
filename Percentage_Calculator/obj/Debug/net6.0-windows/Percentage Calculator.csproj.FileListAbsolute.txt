@@ -1,0 +1,35 @@
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\bin\Debug\net6.0-windows\Percentage Calculator.exe
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\bin\Debug\net6.0-windows\Percentage Calculator.deps.json
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\bin\Debug\net6.0-windows\Percentage Calculator.runtimeconfig.json
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\bin\Debug\net6.0-windows\Percentage Calculator.dll
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\bin\Debug\net6.0-windows\Percentage Calculator.pdb
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\obj\Debug\net6.0-windows\Percentage Calculator.csproj.AssemblyReference.cache
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\obj\Debug\net6.0-windows\Percentage_Calculator.Form1.resources
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\obj\Debug\net6.0-windows\Percentage Calculator.csproj.GenerateResource.cache
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\obj\Debug\net6.0-windows\Percentage Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\obj\Debug\net6.0-windows\Percentage Calculator.AssemblyInfoInputs.cache
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\obj\Debug\net6.0-windows\Percentage Calculator.AssemblyInfo.cs
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\obj\Debug\net6.0-windows\Percentage Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\obj\Debug\net6.0-windows\Percentage Calculator.dll
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\obj\Debug\net6.0-windows\refint\Percentage Calculator.dll
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\obj\Debug\net6.0-windows\Percentage Calculator.pdb
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\obj\Debug\net6.0-windows\Percentage Calculator.genruntimeconfig.cache
+C:\Users\Nathan.Morphett\Desktop\Visual Studio\Percentage Calculator\obj\Debug\net6.0-windows\ref\Percentage Calculator.dll
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\bin\Debug\net6.0-windows\Percentage Calculator.exe
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\bin\Debug\net6.0-windows\Percentage Calculator.deps.json
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\bin\Debug\net6.0-windows\Percentage Calculator.runtimeconfig.json
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\bin\Debug\net6.0-windows\Percentage Calculator.dll
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\bin\Debug\net6.0-windows\Percentage Calculator.pdb
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\obj\Debug\net6.0-windows\Percentage Calculator.csproj.AssemblyReference.cache
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\obj\Debug\net6.0-windows\Percentage_Calculator.Form1.resources
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\obj\Debug\net6.0-windows\Percentage Calculator.csproj.GenerateResource.cache
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\obj\Debug\net6.0-windows\Percentage Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\obj\Debug\net6.0-windows\Percentage Calculator.AssemblyInfoInputs.cache
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\obj\Debug\net6.0-windows\Percentage Calculator.AssemblyInfo.cs
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\obj\Debug\net6.0-windows\Percentage Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\obj\Debug\net6.0-windows\Percentage Calculator.dll
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\obj\Debug\net6.0-windows\refint\Percentage Calculator.dll
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\obj\Debug\net6.0-windows\Percentage Calculator.pdb
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\obj\Debug\net6.0-windows\Percentage Calculator.genruntimeconfig.cache
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\obj\Debug\net6.0-windows\ref\Percentage Calculator.dll
+C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator\obj\Debug\net6.0-windows\Percentage_Calculator.Properties.Resources.resources
