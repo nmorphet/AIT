@@ -21,7 +21,7 @@ namespace Percentage_Calculator
                 {
                     //prints the calculated result to the display box, formatted to two decimals with a % 
                     percentageRes.Text = calculate_percentage.ToString("0.00") + "%";
-                    //creating variables to set the path and file name
+                    //creating variables to set the path and file name for the text file
                     string directory = @"C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator";
                     string filename = String.Format("{0:dd-MM-yyyy}.txt", DateTime.Now);
                     string path = Path.Combine(directory, filename);
