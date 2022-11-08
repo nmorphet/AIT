@@ -1,4 +1,5 @@
 using Microsoft.VisualBasic.ApplicationServices;
+using System.IO;
 using static System.Windows.Forms.LinkLabel;
 namespace Percentage_Calculator
 {
@@ -21,8 +22,10 @@ namespace Percentage_Calculator
                 {
                     //prints the calculated result to the display box, formatted to two decimals with a % 
                     percentageRes.Text = calculate_percentage.ToString("0.00") + "%";
-                    //creating variables to set the path and file name for the text file
-                    string directory = @"C:\Users\Nathan.Morphett\Desktop\Visual_Studio\Percentage_Calculator";
+                    //creating variables to set the path and file name
+                    string directory = System.IO.Directory.GetCurrentDirectory();
+                    //UNCOMMENT THE NEXT LINE TO VIEW THE PATH THE FILE IS SAVED TO
+                    //MessageBox.Show(directory);
                     string filename = String.Format("{0:dd-MM-yyyy}.txt", DateTime.Now);
                     string path = Path.Combine(directory, filename);
                     //saving the text output to username box and result box to a text file, appending any entries
